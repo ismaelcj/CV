@@ -79,24 +79,6 @@
             ]
           }
         ]
-      },
-      {
-        "organization": {
-          "name": "FactorLibre"
-        },
-        "roles": [
-          {
-            "name": "Odoo Developer",
-            "startDate": "2014-03-01",
-            "finishDate": "2017-09-01",
-            "competences": [
-              {
-                "name": "Odoo",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
       }
     ]
   },
