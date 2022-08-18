@@ -39,6 +39,31 @@
     "jobs": [
       {
         "organization": {
+          "name": "Ontruck"
+        },
+        "roles": [
+          {
+            "name": "Product Engineer",
+            "startDate": "2018-05-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Odoo",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Grant Thornton"
         },
         "roles": [
