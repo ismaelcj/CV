@@ -128,6 +128,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ciclo Superior de Desarrollo de Aplicaciones Web",
+        "startDate": "2012-09-01",
+        "finishDate": "2014-06-01",
+        "institution": {
+          "name": "IES Laguna de Joatzel"
+        }
+      }
     ]
   },
   "careerPreferences": {
