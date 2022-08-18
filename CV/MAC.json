@@ -39,6 +39,24 @@
     "jobs": [
       {
         "organization": {
+          "name": "Grant Thornton"
+        },
+        "roles": [
+          {
+            "name": "Odoo Developer",
+            "startDate": "2017-10-01",
+            "finishDate": "2018-05-01",
+            "competences": [
+              {
+                "name": "Odoo",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "FactorLibre"
         },
         "roles": [
