@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/19/56a6a26d-70c5-42be-8e65-30063e54541b_img-20211206-wa0008_.jpg"
       },
       "location": {
-        "notes": "Madrid"
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -172,7 +175,18 @@
         {
           "name": "Python",
           "type": "technology"
+        },
+        {
+          "name": "Ruby",
+          "type": "technology"
+        },
+        {
+          "name": "Ruby on Rails",
+          "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     }
   }
