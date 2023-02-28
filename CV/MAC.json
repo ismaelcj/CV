@@ -9,7 +9,7 @@
       "name": "Ismael",
       "surnames": "Calvo",
       "title": "Product Developer",
-      "description": "I like to develop products.\nI solve problems not requirements.\nThings are better made than perfect.\nI am not a lover of technology for its own sake.",
+      "description": "",
       "avatar": {
         "alt": "IMG-20211206-WA0008_2.jpg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/19/56a6a26d-70c5-42be-8e65-30063e54541b_img-20211206-wa0008_.jpg"
@@ -48,6 +48,11 @@
           {
             "name": "Product Engineer",
             "startDate": "2018-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Django",
@@ -74,6 +79,11 @@
             "name": "Odoo Developer",
             "startDate": "2017-10-01",
             "finishDate": "2018-05-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Odoo",
@@ -96,6 +106,11 @@
             "name": "Odoo Developer",
             "startDate": "2014-03-01",
             "finishDate": "2017-09-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "Odoo",
@@ -114,10 +129,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -148,7 +165,8 @@
         "startDate": "2012-09-01",
         "finishDate": "2014-06-01",
         "institution": {
-          "name": "IES Laguna de Joatzel"
+          "name": "IES Laguna de Joatzel",
+          "description": ""
         }
       }
     ]
@@ -188,6 +206,7 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
