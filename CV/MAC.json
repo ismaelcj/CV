@@ -1,38 +1,40 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "EN",
-    "MACVersion": "0.3"
+    "language": "ES",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Ismael",
       "surnames": "Calvo",
       "title": "Product Developer",
+      "description": "I like to develop products.\nI solve problems not requirements.\nThings are better made than perfect.\nI am not a lover of technology for its own sake.",
       "avatar": {
-        "alt": "IMG-20211206-WA0008_2.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/19/56a6a26d-70c5-42be-8e65-30063e54541b_img-20211206-wa0008_.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/19/56a6a26d-70c5-42be-8e65-30063e54541b_img-20211206-wa0008_.jpg",
+        "alt": "IMG-20211206-WA0008_2.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
         "country": "España",
         "region": "Comunidad de Madrid",
         "municipality": "Madrid"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/ismaelcj"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/ismaelcalvo/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "I love climbing",
         "fact": "and any mountain sport in general"
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/ismaelcalvo/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/ismaelcj"
       }
     ]
   },
@@ -134,19 +136,17 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
       {
         "skill": {
           "name": "Django",
@@ -158,6 +158,12 @@
           "name": "Odoo",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -166,9 +172,29 @@
         "degreeAchieved": true,
         "name": "Ciclo Superior de Desarrollo de Aplicaciones Web",
         "startDate": "2012-09-01",
-        "finishDate": "2014-06-01",
         "institution": {
           "name": "IES Laguna de Joatzel"
+        },
+        "finishDate": "2014-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de escucha",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Resistencia a la frustración",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Tolerancia a la incertidumbre",
+          "type": "practice"
         }
       }
     ]
@@ -177,9 +203,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/ismaelcalvo/"
+          "URL": "https://www.linkedin.com/in/ismaelcalvo/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/ismaelcj",
+          "type": "github"
         }
+      ],
+      "contactMails": [
+        "ismaelcj@gmail.com"
       ]
     },
     "preferences": {
@@ -208,6 +241,10 @@
       "preferredRoles": [
         "Backend Developer"
       ]
-    }
+    },
+    "status": "notAvailable"
+  },
+  "manfredSpecificData": {
+    "goodPractices": "Measure, build and repeat.\nProcesses should be: manual, mechanised and only then automatic."
   }
 }
