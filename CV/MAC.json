@@ -237,6 +237,9 @@
           "name": "Ruby on Rails",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
       ]
     },
     "status": "notAvailable"
