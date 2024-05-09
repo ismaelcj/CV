@@ -164,6 +164,18 @@
           "name": "Python",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Ruby",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ruby on Rails",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -245,6 +257,28 @@
     "status": "notAvailable"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Django",
+        "type": "technology"
+      },
+      {
+        "name": "Odoo",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "Ruby",
+        "type": "technology"
+      },
+      {
+        "name": "Ruby on Rails",
+        "type": "technology"
+      }
+    ],
     "goodPractices": "Measure, build and repeat.\nProcesses should be: manual, mechanised and only then automatic."
   }
 }
