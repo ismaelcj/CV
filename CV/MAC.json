@@ -285,7 +285,12 @@
         "Backend Developer"
       ]
     },
-    "status": "notAvailable"
+    "status": "notAvailable",
+    "requirements": {
+      "contractTypes": [
+        "permanent"
+      ]
+    }
   },
   "manfredSpecificData": {
     "mainStackTechs": [
