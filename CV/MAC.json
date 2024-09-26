@@ -348,10 +348,6 @@
       {
         "name": "Ruby on Rails",
         "type": "technology"
-      },
-      {
-        "name": "UML",
-        "type": "technology"
       }
     ],
     "goodPractices": "Measure, build and repeat. I think processes should be: first manual, later mechanical and only then automatic.\n\nI always aim for clean code that’s not just functional but also readable, reusable, maintainable, and extensible."
