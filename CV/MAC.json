@@ -54,6 +54,11 @@
             "name": "Product Engineer",
             "startDate": "2023-01-01",
             "finishDate": "2024-06-01",
+            "challenges": [
+              {
+                "description": "I worked in the Merchant team where we built a new tool for merchants to facilitate their daily business.\n\nI was involved in multiple aspects of the product's development. In addition to the coding tasks, I engaged with stakeholders and merchants to understand their diverse needs and participated in user testing sessions toghether with the team designer.\n"
+              }
+            ],
             "competences": [
               {
                 "name": "Ruby",
