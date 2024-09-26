@@ -229,6 +229,30 @@
           "name": "IES Laguna de Joatzel"
         },
         "finishDate": "2014-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": false,
+        "name": "Máster de Desarrollo de Software",
+        "startDate": "2024-06-01",
+        "institution": {
+          "name": "EscuelaIT en colaboración con la Universidad Politecnica de Madrid",
+          "URL": "https://escuela.it/masters/master-desarrollo-software",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/cdec35b9-6115-4901-9dd6-dc0f4a1fc3cd_escuelait.png",
+            "alt": "escuelait.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Java",
+            "type": "technology"
+          },
+          {
+            "name": "UML",
+            "type": "technology"
+          }
+        ]
       }
     ],
     "softSkills": [
