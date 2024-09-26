@@ -237,6 +237,7 @@
         "startDate": "2024-06-01",
         "institution": {
           "name": "EscuelaIT en colaboración con la Universidad Politecnica de Madrid",
+          "description": "Máster con más de 230 horas lectivas. Impartida por Luis Fernández, profesor de la Universidad Politécnica de Madrid.\n\nSe tratan en profundidad todas la áreas del desarrollo del software, por ejemplo:\n- Fundamentos del software\n- Diseño del software\n- Arquitectura del software\n- Patrones de diseño\n\n\n",
           "URL": "https://escuela.it/masters/master-desarrollo-software",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/cdec35b9-6115-4901-9dd6-dc0f4a1fc3cd_escuelait.png",
