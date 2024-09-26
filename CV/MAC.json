@@ -237,7 +237,7 @@
         "startDate": "2024-06-01",
         "institution": {
           "name": "EscuelaIT en colaboración con la Universidad Politecnica de Madrid",
-          "description": "Master's program with over 230 teaching hours, taught by Luis Fernández, professor at the Universidad Politécnica de Madrid.\n\nIt covers all areas of software development in depth, including:\n\nSoftware fundamentals\nSoftware design\nSoftware architecture\nDesign patterns",
+          "description": "Master's program with over 230 teaching hours, taught by Luis Fernández, professor at the Universidad Politécnica de Madrid.\n\nIt covers all areas of software development in depth, including:\n- Software fundamentals\n- Software design\n- Software architecture\n- Design patterns\n",
           "URL": "https://escuela.it/masters/master-desarrollo-software",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/cdec35b9-6115-4901-9dd6-dc0f4a1fc3cd_escuelait.png",
@@ -354,6 +354,6 @@
         "type": "technology"
       }
     ],
-    "goodPractices": "Measure, build and repeat.\nProcesses should be: manual, mechanised and only then automatic."
+    "goodPractices": "Measure, build and repeat. I think processes should be: first manual, later mechanical and only then automatic.\n\nI always aim for clean code that’s not just functional but also readable, reusable, maintainable, and extensible."
   }
 }
