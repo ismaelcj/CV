@@ -265,6 +265,10 @@
           "type": "technology"
         },
         {
+          "name": "Java",
+          "type": "technology"
+        },
+        {
           "name": "Odoo",
           "type": "technology"
         },
