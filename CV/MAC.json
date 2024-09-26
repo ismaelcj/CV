@@ -127,7 +127,12 @@
       },
       {
         "organization": {
-          "name": "FactorLibre"
+          "name": "FactorLibre",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/5b2fe3a2-c49b-46ee-bd69-69b6568e7ea0_factor-libre.jpg",
+            "alt": "FACTOR-LIBRE.jpg"
+          },
+          "URL": "https://factorlibre.com/"
         },
         "roles": [
           {
