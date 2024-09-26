@@ -42,12 +42,18 @@
     "jobs": [
       {
         "organization": {
-          "name": "Sequra"
+          "name": "Sequra",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/d7275d0e-c4fa-4745-9336-53468b2a619e_sequra.png",
+            "alt": "sequra.png"
+          },
+          "URL": "http://www.sequra.com"
         },
         "roles": [
           {
             "name": "Backend Developer",
             "startDate": "2023-01-01",
+            "finishDate": "2024-06-01",
             "competences": [
               {
                 "name": "Ruby",
