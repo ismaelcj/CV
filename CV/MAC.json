@@ -139,6 +139,11 @@
             "name": "Odoo Developer",
             "startDate": "2014-03-01",
             "finishDate": "2017-09-01",
+            "challenges": [
+              {
+                "description": "We helped several companies to implement their business management system."
+              }
+            ],
             "competences": [
               {
                 "name": "Odoo",
