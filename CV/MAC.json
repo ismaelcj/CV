@@ -282,9 +282,6 @@
           "URL": "https://github.com/ismaelcj",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "ismaelcj@gmail.com"
       ]
     },
     "preferences": {
@@ -318,7 +315,7 @@
         "Backend Developer"
       ]
     },
-    "status": "notAvailable",
+    "status": "searchingActively",
     "requirements": {
       "contractTypes": [
         "permanent"
