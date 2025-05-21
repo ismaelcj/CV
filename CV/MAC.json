@@ -232,6 +232,12 @@
       },
       {
         "skill": {
+          "name": "Pytest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
