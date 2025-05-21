@@ -346,6 +346,10 @@
           "type": "technology"
         },
         {
+          "name": "Fastapi",
+          "type": "technology"
+        },
+        {
           "name": "Java",
           "type": "technology"
         },
