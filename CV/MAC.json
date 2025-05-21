@@ -184,7 +184,7 @@
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
@@ -226,7 +226,7 @@
       },
       {
         "studyType": "unaccredited",
-        "degreeAchieved": false,
+        "degreeAchieved": true,
         "name": "Máster de Desarrollo de Software",
         "startDate": "2024-06-01",
         "institution": {
@@ -238,6 +238,7 @@
             "alt": "escuelait.png"
           }
         },
+        "finishDate": "2025-03-01",
         "linkedCompetences": [
           {
             "name": "Java",
