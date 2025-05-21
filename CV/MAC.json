@@ -314,12 +314,6 @@
     "softSkills": [
       {
         "skill": {
-          "name": "Resistencia a la frustración",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Tolerancia a la incertidumbre",
           "type": "practice"
         }
