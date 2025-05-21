@@ -196,6 +196,24 @@
       },
       {
         "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Fastapi",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Python",
           "type": "technology"
         }
@@ -336,15 +354,15 @@
         "type": "technology"
       },
       {
+        "name": "Fastapi",
+        "type": "technology"
+      },
+      {
         "name": "Python",
         "type": "technology"
       },
       {
         "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "Ruby",
         "type": "technology"
       },
       {
