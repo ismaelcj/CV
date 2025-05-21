@@ -320,12 +320,6 @@
       },
       {
         "skill": {
-          "name": "Tolerancia a la incertidumbre",
-          "type": "practice"
-        }
-      },
-      {
-        "skill": {
           "name": "Trabajo en equipo",
           "type": "practice"
         }
