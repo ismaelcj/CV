@@ -362,6 +362,10 @@
           "type": "technology"
         },
         {
+          "name": "React",
+          "type": "technology"
+        },
+        {
           "name": "Ruby",
           "type": "technology"
         }
