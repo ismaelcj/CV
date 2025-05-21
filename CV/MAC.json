@@ -320,6 +320,12 @@
       },
       {
         "skill": {
+          "name": "Capacidad de autogestión",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
           "name": "Trabajo en equipo",
           "type": "practice"
         }
