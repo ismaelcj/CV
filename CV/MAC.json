@@ -190,6 +190,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Celery",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Django",
           "type": "technology"
         }
@@ -275,6 +281,12 @@
       {
         "skill": {
           "name": "SQLAlchemy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
           "type": "technology"
         }
       },
@@ -402,6 +414,10 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "Celery",
+        "type": "technology"
+      },
+      {
         "name": "Django",
         "type": "technology"
       },
@@ -415,10 +431,6 @@
       },
       {
         "name": "React",
-        "type": "technology"
-      },
-      {
-        "name": "Ruby on Rails",
         "type": "technology"
       }
     ],
