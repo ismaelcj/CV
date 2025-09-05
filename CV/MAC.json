@@ -61,6 +61,10 @@
             ],
             "competences": [
               {
+                "name": "Elasticsearch",
+                "type": "technology"
+              },
+              {
                 "name": "Ruby",
                 "type": "technology"
               },
