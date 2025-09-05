@@ -97,6 +97,10 @@
             ],
             "competences": [
               {
+                "name": "Celery",
+                "type": "technology"
+              },
+              {
                 "name": "Django",
                 "type": "technology"
               },
