@@ -97,11 +97,23 @@
                 "type": "technology"
               },
               {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
                 "name": "Odoo",
                 "type": "technology"
               },
               {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
                 "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
                 "type": "technology"
               }
             ]
