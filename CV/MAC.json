@@ -405,19 +405,11 @@
           "type": "technology"
         },
         {
-          "name": "Java",
-          "type": "technology"
-        },
-        {
           "name": "Python",
           "type": "technology"
         },
         {
           "name": "React",
-          "type": "technology"
-        },
-        {
-          "name": "Ruby",
           "type": "technology"
         }
       ],
