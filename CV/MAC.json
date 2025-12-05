@@ -42,6 +42,36 @@
     "jobs": [
       {
         "organization": {
+          "name": "Reveni",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/12/05/4718d16a-42fd-46e9-8f53-71fc9a6d1de1_reveni.png",
+            "alt": "reveni.png"
+          },
+          "URL": "https://www.reveni.com/"
+        },
+        "roles": [
+          {
+            "name": "Backend Developer",
+            "startDate": "2025-10-01",
+            "competences": [
+              {
+                "name": "Django",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Sequra",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/09/26/d7275d0e-c4fa-4745-9336-53468b2a619e_sequra.png",
